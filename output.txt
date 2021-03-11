@@ -1,0 +1,11 @@
+enter your choice to start the game 
+press 1 for A.I vs A.I
+press 2 for A.I vs HUMAN
+press 3 to show log
+2
+your turn
+rock
+A.I thinks
+paper
+A.I wins
+Do you want to continue press y 
